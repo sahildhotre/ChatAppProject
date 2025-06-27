@@ -132,18 +132,30 @@ npx react-native run-android
 ---
 
 ## 🖼️ Screenshots
+### Client Side:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cabe463c-5588-485e-95d3-ab6e56df8e79" width="250">
+</p>
+
+### Server Side:
+![image](https://github.com/user-attachments/assets/1aa5bc08-244f-440c-9dc8-e28bf2ea2af6)
 
 ---
-## 🎯 Conclusion
-This project demonstrates a complete, real-time group chat solution using modern technologies. 
+## 📦 APK Location
 
+After building the project, the generated `.apk` file can be found here:  
+```
+MobileApp/android/app/build/outputs/apk/debug/app-debug.apk 
+```
+👉 [Download  APK](https://drive.google.com/drive/folders/1K0AG4DVp4m2619NtUj-oEaOs-PVzL5OP?usp=sharing)
+
+## 🎯 Conclusion
+This project demonstrates a complete, real-time group chat solution using modern technologies.  
 It's lightweight, user-friendly, and ideal for understanding:
 
-✅ Mobile development with React Native
-
-✅ Real-time communication using Socket.IO
-
-✅ Event-driven server architecture with Node.js
+✅ Mobile development with React Native   
+✅ Real-time communication using Socket.IO  
+✅ Event-driven server architecture with Node.js  
 
 
 
